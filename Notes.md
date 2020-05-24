@@ -43,7 +43,6 @@ HTTP status codes
 - Send and recieve data asynchronously
 - Does not interfere with current web page
 - JSON has replaced XML
-
 - **Allows us to make requests without loading the entire webpage.**
 - **Enables users to change or make small requests in the backkground without disturbing the webpage.**
 
